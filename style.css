@@ -1,0 +1,32 @@
+ head
+    .header {
+      text-align: center;
+    }
+    
+    body {
+      background-image: url('logo3.png');
+      background-size: cover;
+      background-attachment:"fixed";
+      background-color: lightblue;
+      background-size: cover;
+
+    style="color: white;"
+     
+  }
+  
+  h
+     {
+     img src="TH.jpg"
+     width="220"
+     height="300"
+     rgba(255, 255, 255, 0.5)
+       
+     }  
+  h
+   {
+     color: white; "font-size: 36px;"
+    p  
+    {
+    style="color: white;"
+    }
+  
